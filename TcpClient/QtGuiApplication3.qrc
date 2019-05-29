@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/QtGuiApplication3">
+        <file>Resources/PlayButton.png</file>
+        <file>Resources/ExitButton.png</file>
+        <file>Resources/Max.png</file>
+        <file>Resources/ExitButton2.png</file>
+        <file>Resources/Mini.png</file>
+        <file>Resources/Mini2.png</file>
+        <file>Resources/PauseButton2.png</file>
+        <file>Resources/background.png</file>
+    </qresource>
+</RCC>
